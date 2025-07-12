@@ -1,6 +1,6 @@
 ---
 
-````markdown
+
 # 🧵 String Library for C++ 🚀
 
 Welcome to the **String Library**, a powerful and easy-to-use C++ class designed to extend and simplify string manipulation.
@@ -28,7 +28,7 @@ Welcome to the **String Library**, a powerful and easy-to-use C++ class designed
  ┣ 📄 clsString.h          # Main header file with all class methods
  ┣ 📄 String-Library.cpp   # Example usage (entry point)
  ┗ 📜 README.md            # Project documentation
-````
+
 
 ---
 
@@ -108,5 +108,3 @@ Feel free to contribute or raise issues via GitHub Issues 🛠️
 We welcome pull requests and improvements! 🙌
 
 ---
-
-```
