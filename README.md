@@ -86,7 +86,7 @@ Make sure to compile with a C++11 (or later) compatible compiler.
 
 ## 🙏 Acknowledgments
 
-Special thanks to **#Dr. Mohammed Abu-Hadhoud#** — for another phenomenal course that shapes strong, fearless developers! 🔥🎓
+Special thanks to ***Dr. Mohammed Abu-Hadhoud*** — for another phenomenal course that shapes strong, fearless developers! 🔥🎓
 
 ---
 
